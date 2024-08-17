@@ -33,7 +33,7 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText",{
-  strings : ["ESL Teacher","Administrator","Virtual Assistant"],
+  strings : ["Designer","Youtuber","Developer"],
   loop : true,
   typeSpeed : 100, 
   backSpeed : 80,
@@ -114,7 +114,7 @@ sections.forEach(current =>{
 })
 }
 
-// window.addEventListener('scroll', scrollActive)
+window.addEventListener('scroll', scrollActive)
 
 // document.getElementById('theme-toggle').addEventListener('change', function(event) {
 //   if (event.target.checked) {
